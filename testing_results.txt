@@ -1,0 +1,20 @@
+
+Test 1:
+Review: I purchased this wireless mouse last week. It works well, but the battery drains faster than expected.
+Prediction: Original-Like Review
+Confidence: 87.47%
+
+Test 2:
+Review:
+Prediction:
+Confidence:
+
+Test 3:
+Review:
+Prediction:
+Confidence:
+
+Test 4:
+Review:
+Prediction:
+Confidence:
